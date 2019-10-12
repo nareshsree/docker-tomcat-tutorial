@@ -1,5 +1,5 @@
 FROM tomcat:8.0-alpine
-LABEL maintainer="deepak@softwareyoga.com"
+LABEL maintainer="srinaresh.mannepalli@gmail.com"
 
 ADD sample.war /usr/local/tomcat/webapps/
 
